@@ -1,6 +1,6 @@
 # 北邮人论坛2017考研专刊
 
-- 2017考研专刊（上） [下载地址](https://github.com/ingbyr/bbs-byr-cn-kyzk/releases/download/2017.9/2017-kyzk-2.pdf)
+- 2017考研专刊（下） [下载地址](https://github.com/ingbyr/bbs-byr-cn-kyzk/releases/download/2017.9/2017-kyzk-2.pdf)
 - 2017考研专刊（上） [下载地址](https://github.com/ingbyr/bbs-byr-cn-kyzk/releases/download/2017/2017-kyzk-1.pdf)
 
 # 版权申明
